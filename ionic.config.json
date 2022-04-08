@@ -1,0 +1,7 @@
+{
+  "name": "zzapy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
